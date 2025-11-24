@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:faisalmehmooddev@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/faisal-mehmood-dev">🔗 LinkedIn</a> •
-  <a href="https://ifaisaldev.github.io">🌐 Portfolio</a>
+  <a href="https://faisalmehmood.tech/">🌐 Portfolio</a>
 </p>
 
 ---
