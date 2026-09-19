@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Faisal Mehmood</h1>
-<h3 align="center">Full Stack Developer | WordPress & MERN Expert | Freelancer</h3>
+<h3 align="center">Senior Backend Engineer | Framework Architect | Open Source Contributor</h3>
 
 <p align="center">
   <a href="mailto:faisalmehmooddev@gmail.com">📧 Email</a> •
@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as **Lead Backend Developer at Revnix**
-- 💻 I specialize in **WordPress plugin/theme dev** & full-stack **MERN applications**
-- 🌱 Always improving my skills in **AI, automation (n8n), and scalable microservices**
-- 🤝 Open to freelance & remote collaborations
+- 🔭 I'm currently working as **Lead Backend Engineer & Release Manager at Revnix**
+- 🏗️ Lead architect of **Nextly** — an MIT-licensed, TypeScript-native Next.js CMS framework
+- 💻 I build production systems with **NestJS, FastAPI, PostgreSQL, and Drizzle ORM**
+- 🌱 Deep expertise in **microservices architecture, RBAC systems, and CI/CD automation**
+- 🤝 Open to senior engineering and remote opportunities
 - 📫 How to reach me: **faisalmehmooddev@gmail.com**
 
 ---
@@ -45,6 +46,10 @@ Here are some ideas to get you started:
 
 ### 🔥 Projects Showcase
 
+#### 🤖 Rext AI
+- 🔗 [View Platform](https://rext.ai)
+- 🧠 Lead Backend Engineer for a multi-tenant SaaS using Python, FastAPI, and PostgreSQL.
+
 #### 🛡 PCI Security Standards
 - 🔗 [View Website](https://www.pcisecuritystandards.org)
 - 🧩 Custom Elementor widgets, secure backend APIs, REST integrations
@@ -53,9 +58,13 @@ Here are some ideas to get you started:
 - 🔗 [View Website](https://thenationalpulse.com)
 - 💳 Stripe, Google Pay, Paid Memberships Pro, SEO-optimized theme
 
-#### 🛒 21st Century Equipment
-- 🔗 [View Website](https://21stcenturyequipment.com)
-- 🧠 MERN Stack e-commerce with advanced filtering & Headless CMS
+#### 🛒 21st Century & 4 Rivers Equipment
+- 🔗 [View 21st Century](https://21stcenturyequipment.com) | [View 4 Rivers](https://4riversequipment.com)
+- 🧠 Headless Next.js e-commerce and a custom NestJS/Drizzle ORM backend (4RE Marketing Console) for multi-source inventory sync.
+
+#### 🏗️ Nextly (Flagship)
+- 🔗 [View Framework](https://nextlyhq.com)
+- 🚀 Lead Architect of @FAISAL-RX/nextly (Open-source Next.js CMS)
 
 ---
 
@@ -68,8 +77,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 💼 Let's Work Together
+### 💼 Let's Connect
 
-If you're looking for a passionate developer for your **WordPress, React, or API-based** project, [let’s talk](mailto:faisalmehmooddev@gmail.com)!
+I'm always interested in discussing challenging engineering problems, open-source collaboration, or senior backend roles. [Get in touch](mailto:faisalmehmooddev@gmail.com).
 
 ---
