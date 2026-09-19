@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working as **Lead Backend Engineer & Release Manager at Revnix**
+- 🔭 I'm currently working as **Lead Backend Engineer at Revnix**
 - 🏗️ Lead architect of **Nextly** — an MIT-licensed, TypeScript-native Next.js CMS framework
 - 💻 I build production systems with **NestJS, FastAPI, PostgreSQL, and Drizzle ORM**
 - 🌱 Deep expertise in **microservices architecture, RBAC systems, and CI/CD automation**
