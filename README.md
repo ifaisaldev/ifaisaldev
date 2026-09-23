@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Faisal Mehmood</h1>
-<h3 align="center">Senior Backend Engineer | Framework Architect | Open Source Contributor</h3>
+<h3 align="center">Senior Backend Engineer | Nextly Lead Contributor | Open Source</h3>
 
 <p align="center">
   <a href="mailto:faisalmehmooddev@gmail.com">📧 Email</a> •
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working as **Lead Backend Engineer at Revnix**
-- 🏗️ Lead architect of **Nextly** — an MIT-licensed, TypeScript-native Next.js CMS framework
+- 🏗️ Lead contributor to **Nextly** — an MIT-licensed, TypeScript-native Next.js CMS framework
 - 💻 I build production systems with **NestJS, FastAPI, PostgreSQL, and Drizzle ORM**
 - 🌱 Deep expertise in **microservices architecture, RBAC systems, and CI/CD automation**
 - 🤝 Open to senior engineering and remote opportunities
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 #### 🏗️ Nextly (Flagship)
 - 🔗 [View Framework](https://nextlyhq.com)
-- 🚀 Lead Architect of @FAISAL-RX/nextly (Open-source Next.js CMS)
+- 🚀 Lead contributor to [`nextly`](https://www.npmjs.com/package/nextly), an open-source Next.js CMS ([GitHub](https://github.com/nextlyhq/nextly))
 
 ---
 
