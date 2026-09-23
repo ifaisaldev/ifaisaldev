@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working as **Lead Backend Engineer at Revnix**
 - 🏗️ Lead contributor to **Nextly** — an MIT-licensed, TypeScript-native CMS for Next.js
 - 💻 I build production systems with **NestJS, FastAPI, PostgreSQL, and Drizzle ORM**
-- 🌱 Deep expertise in **microservices architecture, RBAC systems, and CI/CD automation**
-- 🤝 Open to senior engineering and remote opportunities
+- 🌱 Experienced in **modular backend architecture, RBAC systems, and CI/CD automation**
+- 🤝 Open to senior engineering roles: remote, available across all time zones
 - 📫 How to reach me: **faisalmehmooddev@gmail.com**
 
 ---
