@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 #### 🤖 Rext AI
 - 🔗 [View Platform](https://rext.ai)
-- 🧠 Lead Backend Engineer for a multi-tenant SaaS using Python, FastAPI, and PostgreSQL.
+- 🧠 Lead Backend Engineer for a multi-tenant SaaS on Python, FastAPI and PostgreSQL: platform and workspace RBAC, session impersonation, audit logs, subscription billing, workspace credit sharing, Redis caching, webhooks, monitoring and CI/CD.
 
 #### 🛡 PCI Security Standards
 - 🔗 [View Website](https://www.pcisecuritystandards.org)
