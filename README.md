@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working as **Lead Backend Engineer at Revnix**
-- 🏗️ Lead contributor to **Nextly** — an MIT-licensed, TypeScript-native Next.js CMS framework
+- 🏗️ Lead contributor to **Nextly** — an MIT-licensed, TypeScript-native CMS for Next.js
 - 💻 I build production systems with **NestJS, FastAPI, PostgreSQL, and Drizzle ORM**
 - 🌱 Deep expertise in **microservices architecture, RBAC systems, and CI/CD automation**
 - 🤝 Open to senior engineering and remote opportunities
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - 🔗 [View 21st Century](https://21stcenturyequipment.com) | [View 4 Rivers](https://4riversequipment.com)
 - 🧠 Headless Next.js e-commerce and a custom NestJS/Drizzle ORM backend (4RE Marketing Console) for multi-source inventory sync.
 
-#### 🏗️ Nextly (Flagship)
+#### 🏗️ Nextly CMS (Flagship)
 - 🔗 [View Framework](https://nextlyhq.com)
 - 🚀 Lead contributor to [`nextly`](https://www.npmjs.com/package/nextly), an open-source Next.js CMS ([GitHub](https://github.com/nextlyhq/nextly))
 
